@@ -1,0 +1,1 @@
+Jogo snake simples usando python e o módulo "Turtle" para criar elementos visuais.
